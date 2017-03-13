@@ -1,8 +1,8 @@
 # Library-Management-System
 
-Gebze Technical University Data Structures and Algorithm Homework 1.
+Gebze Technical University Data Structures and Algorithms Homework 1.
 
-This is a simple library management system with Java.
+This is a simple library management system written in Java.
 There is a report about "how to use system ?" in Turkish.  
 
 
